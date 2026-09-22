@@ -2,6 +2,7 @@
 > Résolvons plus de 330 exercices en NumPy, Pandas et Scikit-Learn pour maîtriser la science des données. Affrontons de vrais problèmes, apprenons à exploiter la documentation et Stack Overflow, avec le soutien garanti de l'instructeur Pawel, dans le cadre du suivi d'une formation sur Udemy.
 
 **Intro**
+
 NumPy (*Numerical Python*) est un paquet fondamental pour le calcul numérique en Python. Il offre une prise en charge des grands tableaux et matrices multidimensionnels, ainsi qu'une vaste collection de fonctions mathématiques de haut niveau pour opérer sur ces tableaux. NumPy est largement utilisé dans le calcul scientifique, l'analyse de données, l'apprentissage automatique (*machine learning*) et bien d'autres domaines.
 
 **Core Features (Fonctionnalités clés) :**
